@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cool-project
+Version: 1.1
+Summary: something
+Home-page: 
+Author: Yulian302
+Author-email: 
+Requires: sys
+Requires: wheel
+
+Hello this is a project

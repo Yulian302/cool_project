@@ -1,0 +1,10 @@
+README.md
+setup.py
+cool_package/__init__.py
+cool_package/module1.py
+cool_project.egg-info/PKG-INFO
+cool_project.egg-info/SOURCES.txt
+cool_project.egg-info/dependency_links.txt
+cool_project.egg-info/top_level.txt
+scripts/cool.bash
+scripts/hello.sh
