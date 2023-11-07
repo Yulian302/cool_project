@@ -1,1 +1,5 @@
-./cool_package
+venv
+tests
+dist
+cool_project.egg-info
+.idea

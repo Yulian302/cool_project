@@ -5,7 +5,9 @@ Summary: something
 Home-page: 
 Author: Yulian302
 Author-email: 
+License: LICENSE
 Requires: sys
 Requires: wheel
+License-File: LICENSE
 
 Hello this is a project

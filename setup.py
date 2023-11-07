@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 with open('README.md') as f:
     long_description = f.read()
@@ -6,7 +6,8 @@ with open('README.md') as f:
 setup(
     name='cool_project',
     version='1.1',
-    packages=['cool_package'],
+    package_dir={'': 'src'},
+    packages=find_packages(where='src'),
     url='',
     long_description=long_description,
     author='Yulian302',
